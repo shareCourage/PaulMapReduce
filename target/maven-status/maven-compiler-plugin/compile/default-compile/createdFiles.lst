@@ -1,0 +1,12 @@
+com\paul\mr\WordCountFormat.class
+com\paul\mr\WordCountReduce.class
+com\paul\mr2\PaulSortPartitioner.class
+com\paul\mr2\PaulSortReducer.class
+com\paul\mr2\PaulSortMapper.class
+com\paul\mr\WordCountMapper.class
+com\paul\mr\WordCount.class
+com\paul\mr2\PaulSort.class
+com\paul\mr2\PaulSortGroup.class
+com\paul\mr\WordCountPartition.class
+com\paul\mr2\OrderBean.class
+com\paul\mr\WordCountFormat$WordCountRecordReader.class
